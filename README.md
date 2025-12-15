@@ -1,2 +1,2 @@
 # nb_supertonic
-a six voice supertonic nb port
+a six voice supertonic port
